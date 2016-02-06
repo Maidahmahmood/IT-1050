@@ -1,0 +1,6 @@
+C:\Users\maida_000\Desktop\GitHub\Practice\Practice\bin\Debug\Practice.exe.config
+C:\Users\maida_000\Desktop\GitHub\Practice\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+C:\Users\maida_000\Desktop\GitHub\Practice\Practice\bin\Debug\Practice.exe
+C:\Users\maida_000\Desktop\GitHub\Practice\Practice\bin\Debug\Practice.pdb
+C:\Users\maida_000\Desktop\GitHub\Practice\Practice\obj\Debug\Practice.exe
+C:\Users\maida_000\Desktop\GitHub\Practice\Practice\obj\Debug\Practice.pdb
