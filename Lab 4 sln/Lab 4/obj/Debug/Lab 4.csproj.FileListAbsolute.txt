@@ -1,0 +1,6 @@
+C:\Users\maida_000\Desktop\GitHub\Lab 4 sln\Lab 4\bin\Debug\Lab 4.exe.config
+C:\Users\maida_000\Desktop\GitHub\Lab 4 sln\Lab 4\bin\Debug\Lab 4.exe
+C:\Users\maida_000\Desktop\GitHub\Lab 4 sln\Lab 4\bin\Debug\Lab 4.pdb
+C:\Users\maida_000\Desktop\GitHub\Lab 4 sln\Lab 4\obj\Debug\Lab 4.csprojResolveAssemblyReference.cache
+C:\Users\maida_000\Desktop\GitHub\Lab 4 sln\Lab 4\obj\Debug\Lab 4.exe
+C:\Users\maida_000\Desktop\GitHub\Lab 4 sln\Lab 4\obj\Debug\Lab 4.pdb
