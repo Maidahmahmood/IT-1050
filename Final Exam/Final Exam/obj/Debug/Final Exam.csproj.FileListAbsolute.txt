@@ -1,0 +1,6 @@
+C:\Users\maida_000\Desktop\GitHub\Final Exam\Final Exam\bin\Debug\Final Exam.exe.config
+C:\Users\maida_000\Desktop\GitHub\Final Exam\Final Exam\bin\Debug\Final Exam.exe
+C:\Users\maida_000\Desktop\GitHub\Final Exam\Final Exam\bin\Debug\Final Exam.pdb
+C:\Users\maida_000\Desktop\GitHub\Final Exam\Final Exam\obj\Debug\Final Exam.csprojResolveAssemblyReference.cache
+C:\Users\maida_000\Desktop\GitHub\Final Exam\Final Exam\obj\Debug\Final Exam.exe
+C:\Users\maida_000\Desktop\GitHub\Final Exam\Final Exam\obj\Debug\Final Exam.pdb
